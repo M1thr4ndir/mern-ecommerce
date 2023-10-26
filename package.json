@@ -9,6 +9,7 @@
     "dev:server": "cd server && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+   "homepage": "."
   "repository": {
     "type": "git",
     "url": "git+https://github.com/mohamedsamara/mern-ecommerce.git"
@@ -27,7 +28,6 @@
   "bugs": {
     "url": "https://github.com/mohamedsamara/mern-ecommerce/issues"
   },
-  "homepage": "https://github.com/mohamedsamara/mern-ecommerce#readme",
   "devDependencies": {
     "cross-env": "^5.2.1",
     "nodemon": "^3.0.1",
