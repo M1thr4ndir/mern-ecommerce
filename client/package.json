@@ -70,5 +70,5 @@
     "webpack-dev-server": "^3.11.3",
     "webpack-merge": "^4.2.1",
     "webpack-pwa-manifest": "^4.0.0"
-  }
+  }, "homepage":"."
 }
